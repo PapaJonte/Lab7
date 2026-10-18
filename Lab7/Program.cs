@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            GameMenu.ShowMenu();
+            GameMenu.ShowMenu(); // Starts the main menu
         }
     }
 }
